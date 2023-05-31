@@ -98,4 +98,9 @@ If things goes well, this section should automatically be replaced by a list of 
 <br />
 
 ----
-
+name: Default metrics
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.base.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: header, activity, community, repositories, metadata

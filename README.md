@@ -7,7 +7,7 @@
 
 <h3 align="left">Languages:</h3>
 
-![C#(https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://ru.wikipedia.org/wiki/C_Sharp)
+![https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white](https://ru.wikipedia.org/wiki/C_Sharp)
 
 
 <h3 align="left">Tools:</h3>

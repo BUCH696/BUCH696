@@ -10,7 +10,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="0%" border: 0px solid>
+<table><tr><td valign="top" width="0%" border: 0px solid;>
 
 
 

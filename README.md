@@ -58,7 +58,7 @@
 <img src="https://d1aettbyeyfilo.cloudfront.net/vocalmaster/27964380_1652092683tJjTelegram-Logo.png" align="left" height="65" width="115" />  
   
 
-![[1](https://vk.com/)](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)  
+![(https://vk.com/)](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)  
   
 
 <br/>  

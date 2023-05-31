@@ -6,101 +6,70 @@
 ### <div align="center">I'm Nikita, a Unity C# Developer 👨‍💻 working remotely since 2019🚀</div>  
  
 
-<br/>  
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> </h1>
+<h3 align="center">Computer science student and IT news writer</h3>
+
+[![codewars](https://www.codewars.com/users/daniilshat/badges/small)](https://www.codewars.com/users/daniilshat)  
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="50%">
+- 🌱 I’m currently learning **QA, python, web**
+
+- 📝 I regularly write articles on [**Habr (Ru)**](https://habr.com/ru/users/daniilshat/posts/)
+
+- 📫 How to reach me **daniilshstukhin@gmail.com**
+
+- 📄 Know about my experiences [**Habr Career (Ru)**](https://career.habr.com/daniilshat)
+
+- 🌍 I speak Russian (native), English (B2)
+
+### Connect with me:
+<p align="left">
+<a href="https://t.me/wa1pper" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/Telegram.svg" alt="daniilshat" height="40" width="40" /></a>
+<a href="https://vk.com/daniilshat" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/vk.svg" alt="daniilshat" height="40" width="40" /></a>
+<a href="https://codepen.io/daniilshat" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/codepen.svg" alt="daniilshat" height="40" width="40" /></a>
+<a href="https://open.spotify.com/user/p0dhegmrdlyqah3o1od5aypb0?si=M-nsOUPpQLuqfVTpim6CEg&utm_source=copy-link" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/5d465d2dc41025f6921c12e40cf3fa0a40b5bddb/icons/spotify-2.svg" alt="daniilshat" height="40" width="40" /></a>
+<a href="https://habr.com/ru/users/daniilshat/posts/" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/d71898e2a08f31fd3f9512a9d30d3cb1d025a649/icons/habr.svg" alt="daniilshat" height="60" width="60" /></a>
+</p>
+
+### Languages:
+<p align="left"> 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/C.svg" alt="c" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/C%2B%2B.svg" alt="cplusplus" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/CSS3.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/HTML5.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/python.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.markdownguide.org/basic-syntax/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/c74242689872258d4882fe938a6257c2da710353/icons/markdown-white.svg" alt="python" width="60" height="40"/> </a> 
+</p>
+
+### Tools:
+<p align="left"> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/linux.svg" alt="linux" width="40" height="40"/> </a> 
+<a href="http://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/Bash.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/git.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/PyCharm.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.jetbrains.com/clion/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/clion.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/WebStorm.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/VS-code.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/Jupyter.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.gitkraken.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/gitkraken.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/figma.svg" alt="figma" width="30" height="40"/> </a> 
+</p>
 
 
+### 🧑‍💻 This week I spent my time on
+<!--START_SECTION:waka-->
 
-### Frontend  
-<div align="center">  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="75" /></a>  
-<a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="75" /></a>  
-</div>  
+```text
+No activity tracked
+```
 
-<div align="center">
-<img src="https://ultimateitcourses.ca/wp-content/uploads/2018/08/SQL-300x300.png" align="center" height="150" width="150" />
-</div>  
+<!--END_SECTION:waka-->
 
-
-</td><td valign="top" width="50%">
-
-
-
-### Programms  
-<div align="center" >  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="75" /></a>  
-<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="75" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="75" /></a>  
-</div>  
-
-<div align="center">
-<img src="https://wac-cdn.atlassian.com/dam/jcr:f32681c1-355d-4806-b29c-319b0c6ecb06/Sourcetree-blue.svg?cdnVersion=1034" align="center" height="100" width="200" />
-</div>  
-  
-
-<div align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/400px-Visual_Studio_Icon_2019.svg.png" align="center" height="70" width="80" />
-</div>  
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<img src="https://www.pinclipart.com/picdir/big/544-5446048_vk-logo-design-logo-media-sosial-png-clipart.png" align="left" height="60" width="60" />  
-  
-
-<img src="https://d1aettbyeyfilo.cloudfront.net/vocalmaster/27964380_1652092683tJjTelegram-Logo.png" align="left" height="65" width="115" />  
-  
-
-![(https://vk.com/)](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+### 📃 Latest Habr Posts  
+<!-- BLOG-POST-LIST:START -->
+- [В Windows 11 появились виджеты мониторинга CPU, GPU, потребления ОЗУ и других параметров](https://habr.com/ru/news/738916/)
+- [Инженер представил промт-камеру Paragraphica, которая генерирует фотографии на основе данных о местоположении](https://habr.com/ru/news/738878/)
+- [В Firefox Nightly появилась поддержка локального машинного перевода страниц](https://habr.com/ru/news/738804/)
+- [Консоль Asus ROG Ally с новой прошивкой получила прирост производительности в играх до 20%](https://habr.com/ru/news/738784/)
+- [Apple анонсировала изменение налоговой политики для разработчиков приложений](https://habr.com/ru/news/738768/)
 <!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
-
-----
-name: Default metrics
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.base.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: header, activity, community, repositories, metadata

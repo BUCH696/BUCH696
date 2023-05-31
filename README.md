@@ -25,7 +25,7 @@
 </div>  
 
 
-</td><td valign="top" width="50%" border: 0px solid;>
+</td><td valign="top" width="50%">
 
 
 

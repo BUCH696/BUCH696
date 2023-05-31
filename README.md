@@ -7,7 +7,7 @@
 
 <h3 align="left">Languages:</h3>
 
-![https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white](https://ru.wikipedia.org/wiki/C_Sharp)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=buch696)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="left">Tools:</h3>

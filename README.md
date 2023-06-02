@@ -5,13 +5,14 @@
 
 ### <div align="center">I'm Nikita, a Unity C# Developer 👨‍💻 working remotely since 2019🚀</div>  
 
+
 - 🌱 I’m currently learning **QA, python, web**
 
-- 📝 I regularly write articles on [**Habr (Ru)**](https://habr.com/ru/users/daniilshat/posts/)
+- 📝 I regularly write articles on [**Live in coding**](https://learn.microsoft.com/ru-ru/dotnet/csharp/programming-guide/)
 
 - 📫 How to reach me **nikita.v.buchnev@gmail.com**
 
-- 📄 Know about my experiences [**Habr Career (Ru)**](https://career.habr.com/daniilshat)
+- 📄 Know about my experiences 
 
 - 🌍 I speak Russian (native), English (A1)
 

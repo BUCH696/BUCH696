@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **QA, python, web**
 
-- 📝 I regularly write articles on [**Live in coding**](https://learn.microsoft.com/ru-ru/dotnet/csharp/programming-guide/)
+- 📝 I regularly doing [**Live in coding**](https://learn.microsoft.com/ru-ru/dotnet/csharp/programming-guide/)
 
 - 📫 How to reach me **nikita.v.buchnev@gmail.com**
 

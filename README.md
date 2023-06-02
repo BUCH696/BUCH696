@@ -5,9 +5,6 @@
 
 ### <div align="center">I'm Nikita, a Unity C# Developer 👨‍💻 working remotely since 2019🚀</div>  
 
-[![codewars](https://www.codewars.com/users/daniilshat/badges/small)](https://www.codewars.com/users/daniilshat)  
-
-
 - 🌱 I’m currently learning **QA, python, web**
 
 - 📝 I regularly write articles on [**Habr (Ru)**](https://habr.com/ru/users/daniilshat/posts/)

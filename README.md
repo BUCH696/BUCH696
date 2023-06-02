@@ -6,13 +6,13 @@
 ### <div align="center">I'm Nikita, a Unity C# Developer 👨‍💻 working remotely since 2019🚀</div>  
 
 
-- 🌱 I’m currently learning **QA, python, web**
+- 🌱 I’m currently learning **ASP.NET Core, Unity, Personal projects**
 
 - 📝 I regularly doing [**Live in coding**](https://learn.microsoft.com/ru-ru/dotnet/csharp/programming-guide/)
 
 - 📫 How to reach me **nikita.v.buchnev@gmail.com**
 
-- 📄 Know about my experiences 
+- 📄 Know about my experiences in my GitHub
 
 - 🌍 I speak Russian (native), English (A1)
 

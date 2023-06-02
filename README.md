@@ -6,7 +6,7 @@
 ### <div align="center">I'm Nikita, a Unity C# Developer 👨‍💻 working remotely since 2019🚀</div>  
  
 
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> </h1>
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Nikita</a> </h1>
 <h3 align="center">Computer science student and IT news writer</h3>
 
 [![codewars](https://www.codewars.com/users/daniilshat/badges/small)](https://www.codewars.com/users/daniilshat)  

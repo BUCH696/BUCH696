@@ -28,8 +28,7 @@
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/BUCH696/BUCH696/blob/3468c3efe71d8d870b32089a101c39a05229dbf1/Logo/Microsoft%20.NET.png" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://github.com/BUCH696/BUCH696/blob/92b15de7a58f1e8fe4327651126e1430da0fc414/Logo/c%23.png" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/BUCH696/BUCH696/blob/df032d462e3ce585029740207900e8d3baeefead/Logo/sql.png
-  " alt="css3" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/BUCH696/BUCH696/blob/df032d462e3ce585029740207900e8d3baeefead/Logo/sql.png" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/HTML5.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/python.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.markdownguide.org/basic-syntax/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/c74242689872258d4882fe938a6257c2da710353/icons/markdown-white.svg" alt="python" width="60" height="40"/> </a> 

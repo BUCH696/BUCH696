@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Nikita, a Unity C# Developer 👨‍💻 working remotely since 2019🚀</div>  
+### <div align="center">I'm Nikita, a Unity and C# Developer 👨‍💻 working remotely since 2019🚀</div>  
 
 
 - 🌱 I’m currently learning **ASP.NET Core, Unity, Personal projects**

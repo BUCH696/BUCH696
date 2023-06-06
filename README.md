@@ -53,7 +53,7 @@ No activity tracked
 ### 📃 Latest Projects
 <!-- BLOG-POST-LIST:START -->
 ```text
-var Project = secret-project;
+var newProject = new Project secret_project;
 ```
 
 <!-- BLOG-POST-LIST:END -->  

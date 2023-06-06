@@ -18,7 +18,7 @@
 
 ### Connect with me:
 <p align="left">
-<a href="https://t.me/Bu4nev01" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/Telegram.svg" alt="daniilshat" height="40" width="40" /></a>
+<a href="https://t.me/Bu4nev01" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/Telegram.svg" alt="Bu4nev01" height="40" width="40" /></a>
 </p>
 
 ### Languages:
@@ -50,11 +50,8 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-### 📃 Latest Habr Posts  
+### 📃 Latest Projects
 <!-- BLOG-POST-LIST:START -->
-- [В Windows 11 появились виджеты мониторинга CPU, GPU, потребления ОЗУ и других параметров](https://habr.com/ru/news/738916/)
-- [Инженер представил промт-камеру Paragraphica, которая генерирует фотографии на основе данных о местоположении](https://habr.com/ru/news/738878/)
-- [В Firefox Nightly появилась поддержка локального машинного перевода страниц](https://habr.com/ru/news/738804/)
-- [Консоль Asus ROG Ally с новой прошивкой получила прирост производительности в играх до 20%](https://habr.com/ru/news/738784/)
-- [Apple анонсировала изменение налоговой политики для разработчиков приложений](https://habr.com/ru/news/738768/)
+- []()
+
 <!-- BLOG-POST-LIST:END -->  

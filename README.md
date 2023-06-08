@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://psv4.userapi.com/c237131/u360637082/docs/d48/211dce9e15a6/logo_dlya_poiskovika.png?extra=3EyD2f2gQ_-WruTkp5LJXZ-Vma47OJPe4SPPCit7Isepbx4NX7kxfeOJVElA-Q2aEJ0G5woaoC-HR8FCzmug8cuisWfACtn7NpL_WWvDzYj1tC2x_wu_HR-2_imqeasO4gUwcrCjJ0s_xKaRK7EeBuhg" align="center" height="" width="100" />
+<img src="https://github.com/BUCH696/BUCH696/blob/be1002599178901a8daff32db26ec5827eaf1eb5/Logo/%D0%BB%D0%BE%D0%B3%D0%BE%20%D0%B4%D0%BB%D1%8F%20%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%D0%B8%D0%BA%D0%B0.png" align="center" height="" width="100" />
 </div>  
   
 

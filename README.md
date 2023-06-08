@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/BUCH696/BUCH696/blob/be1002599178901a8daff32db26ec5827eaf1eb5/Logo/%D0%BB%D0%BE%D0%B3%D0%BE%20%D0%B4%D0%BB%D1%8F%20%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%D0%B8%D0%BA%D0%B0.png" align="center" height="" width="100" />
+<img src="https://github.com/BUCH696/BUCH696/blob/be1002599178901a8daff32db26ec5827eaf1eb5/Logo/%D0%BB%D0%BE%D0%B3%D0%BE%20%D0%B4%D0%BB%D1%8F%20%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%D0%B8%D0%BA%D0%B0.png" align="center" height="" width="200" />
 </div>  
   
 

@@ -55,5 +55,8 @@ No activity tracked
 ```text
 var newProject = new Project secret_project;
 ```
+Or
+
+You can play my simple game on WebGL: [TeddyCake](https://buch696.github.io/TeddyCakeWebGL)
 
 <!-- BLOG-POST-LIST:END -->  

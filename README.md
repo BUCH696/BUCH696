@@ -56,5 +56,5 @@ No activity tracked
 var newProject = new Project secret_project;
 ```
 ### 🕹Kill time
-**You can play my simple game on WebGL: [TeddyCake](https://buch696.github.io/TeddyCakeWebGL)**
+**You can play my simple game on WebGL: [TeddyCake](https://github.com/BUCH696/TeddyCakeWebGL)**
 <!-- BLOG-POST-LIST:END -->  
